@@ -3,3 +3,4 @@ gosh, i think this time , will be conflct generate, this don't hurt me;
 sorry ,this is new message;
 i dont't think is perfect;
 i change local ,and stage commit it;
+new change
